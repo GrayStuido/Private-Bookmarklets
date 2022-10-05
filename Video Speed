@@ -1,1 +1,0 @@
-javascript:document.querySelector('video').playbackRate=parseFloat(prompt('Video Playback Speed: (Max: 15)','2.75'))
